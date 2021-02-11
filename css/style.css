@@ -4,14 +4,25 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
 }
-.topnav{
-    text-align: right;
+.topnav {
+  display: flex;
+  background-color: #333;
+  color: #ffffff;
+  justify-content: space-between;
+}
+
+.topnav ul {
+  display: flex;
+}
+.logo {
+  padding: 30px;
+}
+.logo h1 {
+  white-space: nowrap;
 }
 
 li {
-  float: left;
 }
 
 li a {
