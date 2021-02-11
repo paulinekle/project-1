@@ -75,13 +75,3 @@ p {
     width: 300px;
     margin: 0 auto;
 }
-.card {
-  display: flex;
-  background-color: pink;
-}
-
-.card {
-  margin: 10px;
-  padding: 20px;
-  font-size: 60px;
-}
