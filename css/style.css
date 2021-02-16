@@ -76,14 +76,9 @@ p {
   margin: 0 auto;
 }
 h3 {
-  font-family: "Quattrocento Sans", sans-serif;
-  font-size: 20px;
-  color: #302d26;
-  text-align: center;
-  background: #bfa99d;
-  padding: 30px;
-  width: 1000px;
-  margin: 0 auto;
+    font-family: "ovo", serif;
+    font-size: 40px;
+    text-align: center;
 }
 p {
   font-family: "Quattrocento Sans", sans-serif;
@@ -103,4 +98,6 @@ p {
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
+    margin: 20px;
+    
 }
